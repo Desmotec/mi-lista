@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "mi-lista",
+    "slug": "snack-9baa7530-34a5-4f0c-864d-32145dcb1487",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "es una lista de la compra echa por amor al arte (gratis en todos los aspectos) echa por desmo-tec apps"
+  }
+}
